@@ -1,0 +1,2 @@
+Oyee balle balle !
+today we will learn blocking(synchronus) vs non-blocking(asnychronous module);
